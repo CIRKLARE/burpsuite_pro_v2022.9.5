@@ -1,0 +1,2 @@
+#!/bin/bash
+java "-javaagent:/home/username/.burp-pro-2022/burploader.jar" "-noverify" "-jar" "/home/username/.burp-pro-2022/burpsuite_pro_v2022.9.5.jar"
